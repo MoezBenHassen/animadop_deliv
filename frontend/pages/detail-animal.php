@@ -212,7 +212,7 @@ error_reporting(0);
 
                     ?>
                             <div id="conteneur">
-                                <img src="../ressources/images/<?php echo htmlentities($result->img); ?>" alt="image">
+                                <img src="../../img/animal/<?php echo htmlentities($result->img); ?>" alt="image">
                             </div>
 
                             <div class="cont" style="position: relative;">

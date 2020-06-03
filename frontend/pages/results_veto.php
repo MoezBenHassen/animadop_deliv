@@ -127,7 +127,7 @@ error_reporting(0);
             <div id="header_menu" data-aos="fade-down">
                 <ul>
                     <li>
-                        <a class="header_menu_item " href="home.html">Acceuil</a>
+                        <a class="header_menu_item " href="homeUser.html">Acceuil</a>
                     </li>
                     <li>
                         <a class="header_menu_item" href="infos.html">Infos</a>
@@ -251,12 +251,7 @@ error_reporting(0);
         <!--partie footer + contact-->
 
 
-        <div id="ajouter">
-            <a href="#"> Ajouter +</a>
-        </div>
-        <div id="ajouter">
-            <a href="#"> Ajouter +</a>
-        </div>
+
 
         <footer style="border: none;">
 
