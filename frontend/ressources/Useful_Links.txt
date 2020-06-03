@@ -1,0 +1,2 @@
+SLICK CAROUSEL CDN : https://cdnjs.com/libraries/slick-carousel
+SLICK PAGE : http://kenwheeler.github.io/slick/

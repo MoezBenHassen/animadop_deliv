@@ -1,0 +1,29 @@
+#FFFFFF  white in general 
+
+/*LOGO*/
+#87d0c5 dop color
+
+/* HEADER */ 
+#dbe2f2 header menu 
+#77819a header menu text
+
+#CAD9F3 background top color
+#169a8c background bot color
+#138a7e
+
+/*BODY*/ 
+#646874 aside menu writing
+#616A99 icon color
+
+#5d92b4 carrousel color
+
+/* NEW PALET */ 
+
+#939393
+#a8a8a8
+
+#d82b6d
+#B9237B
+#B0206F
+#b02057 BACKGROUND COLOR / LOGO
+#b0204b

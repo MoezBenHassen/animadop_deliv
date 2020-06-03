@@ -1,0 +1,114 @@
+#bg_profile {  
+    justify-content: space-evenly;
+    background-color: #b2b2b2;
+    border-radius: 40px;
+    width: 1000vw
+    ;
+    height: auto;
+    ;        
+    margin-left: 20px;
+    margin-right: 20px;
+    /*border: solid red 2px;*/
+     top: 50px; 
+    bottom: 500px;
+    z-index: 10;     
+    
+}
+
+
+.ph_profile{
+    opacity: 0.85;
+    border-radius: 8px;
+    width: 25vw;
+    height: 40vh;
+   margin: 30px;
+   margin-top: 40px;
+   z-index: 15;   
+   
+   
+   
+    
+}
+
+.ph_profile:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+
+
+  .bio{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+    width: 70%;
+    font-size: 25px;
+  }
+
+  .bio:hover{
+      color: #d82b6d;
+      
+  }
+  .titre_bio{
+    margin-left: 20px;
+    margin-top: 30px;
+    width: auto;
+
+  }
+
+  .groupe_ph{
+    float: left;
+    
+  }
+
+  #conteneur
+{
+    display: flex;
+    flex-direction: column;
+    
+    margin: 30px;
+}
+
+#bg_container{
+  display: flex;
+    flex-direction: row;
+
+}
+
+
+
+.titre_bio-underline,
+.titre_bio:hover,
+.titre_bio:focus,
+.titre_bio:active {
+ color: #d82b6d;
+  text-decoration: none;
+}
+
+.btn {
+  margin:40px;
+  background-color: #646874;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+
+@keyframes rotating {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+#dog_icon{
+    width: 180px;
+    height: 180px;
+}
+#dog_icon:hover {
+    animation: rotating 2s ease infinite;
+}
